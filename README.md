@@ -25,25 +25,30 @@ Development environment for the software and other tools to build, test and push
 ## Installing
 How to get a environment running
 ```
+```
+Install python and django
+```
 update-alternatives --install /usr/bin/python python /usr/bin/python3 1
-```
+
 sudo apt install python3-pip -y
-```
+
 update-alternatives --install /usr/bin/pip pip /usr/bin/pip3 1
-```
+
 apt install python3-django
-```
+
 pip install django
-```
+
 python manage.py runserver
-
-
+```
+Install node
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
-```
+
 . ~/.nvm/nvm.sh
-```
+
 nvm install node
 
+```
+Install git
 ```
 install git -y
