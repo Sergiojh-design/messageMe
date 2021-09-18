@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif, arial;
+}
+
+.MessageList {
+  border: 0.25px solid;
+  border-color: grey;
+  padding: 25px;
+  margin: 0px 30px 0px 30px;
+}
+
+.AddMessage {
+  border-color: grey;
+  padding: 10px 25px 25px 0px;
+  margin: 0 30px 0px 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.Delete {
+  float: right;
+  display: inline-block;
+}
+
+.Logout {
+  border-color: grey;
+  margin: 0 30px 0px 30px;
+}
