@@ -55,12 +55,12 @@ python3 manage.py runserver
 
 ## Running
 To run firebase cd into reactapp and create a .env.local file with the following format (ASK OWNER FOR INFO)
-```
-Run Django server, cd into root directory
+
+To run Django server, cd into root directory
 ```
 python3 manage.py runserver
 ````
-Run Frontend application, cd into reactapp
+To run React Frontend application, cd into reactapp
 ```
 npm install
 npm run build
