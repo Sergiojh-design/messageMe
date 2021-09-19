@@ -24,6 +24,7 @@ Development environment for the software and other tools to build, test and push
 
 ## Installing
 How to get a environment running
+
 Install node
 ```
  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
@@ -36,28 +37,19 @@ Install git
  sudo yum install git -y
 ```
 clone Message me repo
-
+```
 git clone https://github.com/Sergiojh-design/messageMe.git
-
 ```
 Install python and django
 ```
 sudo yum install python3-pip -y
-
 pip3 install django
-
 sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7
-
 sudo update-alternatives --config python3
-
 0
-
 python3 -m pip install django-cors-headers
-
 python3 -m pip install djangorestframework
-
 pip3 install Django==2.1.* --user
-
 python3 manage.py runserver
 ```
 
