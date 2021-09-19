@@ -79,6 +79,7 @@ Run Frontend application, cd into reactapp
 npm install
 npm run build
 npm start
+```
 
 #### Sign up
 ![MessageMe for signup](https://media.giphy.com/media/1zuZFCk02ZKB8wSpT7/giphy.gif?cid=790b7611e82da4979c5cd29eb11fa5c8f908ee6599062997&rid=giphy.gif&ct=g)
