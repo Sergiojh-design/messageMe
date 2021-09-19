@@ -24,22 +24,19 @@ Development environment for the software and other tools to build, test and push
 
 ## Installing
 How to get a environment running
-```
 Install node
 ```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
-
-. ~/.nvm/nvm.sh
-
-nvm install node
-
+ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+ . ~/.nvm/nvm.sh
+ nvm install node
+```
 Install git
 ```
-sudo yum update -y
-sudo yum install git -y
-
-clone Message me repo
+ sudo yum update -y
+ sudo yum install git -y
 ```
+clone Message me repo
+
 git clone https://github.com/Sergiojh-design/messageMe.git
 
 ```
