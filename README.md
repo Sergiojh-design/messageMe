@@ -73,6 +73,8 @@ npm start
 ![Send a Message](https://media.giphy.com/media/c0vr97Ecp4UXh0LqPe/giphy.gif?cid=790b7611bd5e35a22d750ffa8c460cb1f4fc29c752eab360&rid=giphy.gif&ct=g)
 #### Recieve a Message
 ![Recieve a Message](https://media.giphy.com/media/dxL5vEYQwJnuTJhXqJ/giphy.gif?cid=790b7611278875fd75a4326387fe09ad7ac876b0a0b7f392&rid=giphy.gif&ct=g)
+#### Delete Message
+![Delete Message](https://media.giphy.com/media/5rxDHSttTTeqAI7vQk/giphy.gif?cid=790b76116897000b998486cee83e81bdced9697df41d613c&rid=giphy.gif&ct=g)
 
 ## Authors
 * Sergio Herrera
