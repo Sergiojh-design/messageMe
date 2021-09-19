@@ -81,11 +81,11 @@ npm run build
 npm start
 
 #### Sign up
-![MessageMe for signup] (https://media.giphy.com/media/1zuZFCk02ZKB8wSpT7/giphy.gif?cid=790b7611e82da4979c5cd29eb11fa5c8f908ee6599062997&rid=giphy.gif&ct=g)
+![MessageMe for signup](https://media.giphy.com/media/1zuZFCk02ZKB8wSpT7/giphy.gif?cid=790b7611e82da4979c5cd29eb11fa5c8f908ee6599062997&rid=giphy.gif&ct=g)
 #### Send a Message
-![Send a Message] (https://media.giphy.com/media/c0vr97Ecp4UXh0LqPe/giphy.gif?cid=790b7611bd5e35a22d750ffa8c460cb1f4fc29c752eab360&rid=giphy.gif&ct=g)
+![Send a Message](https://media.giphy.com/media/c0vr97Ecp4UXh0LqPe/giphy.gif?cid=790b7611bd5e35a22d750ffa8c460cb1f4fc29c752eab360&rid=giphy.gif&ct=g)
 #### Recieve a Message
-![Recieve a Message] (https://media.giphy.com/media/dxL5vEYQwJnuTJhXqJ/giphy.gif?cid=790b7611278875fd75a4326387fe09ad7ac876b0a0b7f392&rid=giphy.gif&ct=g)
+![Recieve a Message](https://media.giphy.com/media/dxL5vEYQwJnuTJhXqJ/giphy.gif?cid=790b7611278875fd75a4326387fe09ad7ac876b0a0b7f392&rid=giphy.gif&ct=g)
 
 ## Authors
 * Sergio Herrera
