@@ -67,9 +67,6 @@ python3 manage.py runserver
 ## Running
 To run firebase cd into reactapp and create a .env.local file with the following format (ASK OWNER FOR INFO)
 ```
-
-Once deploye add IP address to messageMe --> settings.py in CORS_ORIGIN_WHITELIST
-
 Run Django server, cd into root directory
 ```
 python3 manage.py runserver
