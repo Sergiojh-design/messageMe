@@ -48,6 +48,7 @@ Install python and django
 4.) python3 -m pip install djangorestframework
 
 ```
+Note on Ubuntu server under security add a new inbound rule: type: all traffic, source: custom, 0.0.0.0/0. Then connect to public or private URL:3000 to display app.
 
 ## Running
 To run firebase cd into reactapp and create a .env.local file with the following format (ASK OWNER FOR INFO)
