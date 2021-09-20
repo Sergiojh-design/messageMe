@@ -33,34 +33,34 @@ Install node
 ```
 Install git
 ```
- sudo apt update -y
- sudo apt install git -y
+ 1.) sudo apt update -y
+ 2.) sudo apt install git -y
 ```
-clone Message me repo
+clone messageMe repo
 ```
-git clone https://github.com/Sergiojh-design/messageMe.git
+1.) git clone https://github.com/Sergiojh-design/messageMe.git
 ```
 Install python and django
 ```
-sudo apt install python3-pip -y
-pip3 install django
-python3 -m pip install django-cors-headers
-python3 -m pip install djangorestframework
+1.) sudo apt install python3-pip -y
+2.) pip3 install django
+3.) python3 -m pip install django-cors-headers
+4.) python3 -m pip install djangorestframework
 
 ```
 
 ## Running
 To run firebase cd into reactapp and create a .env.local file with the following format (ASK OWNER FOR INFO)
 
-To run Django server, cd into root directory
+Run Django server (in one terminal), cd into root directory
 ```
-python3 manage.py runserver
+1.) python3 manage.py runserver
 ````
-To run React Frontend application (in new terminal), cd into reactapp
+To run React Frontend application (in another terminal), cd into reactapp
 ```
-npm install
-npm run build
-npm start
+1.) npm install
+2.) npm run build
+3.) npm start
 ```
 
 #### Sign up
