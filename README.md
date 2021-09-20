@@ -33,8 +33,8 @@ Install node
 ```
 Install git
 ```
- sudo yum update -y
- sudo yum install git -y
+ sudo apt update -y
+ sudo apt install git -y
 ```
 clone Message me repo
 ```
@@ -42,15 +42,11 @@ git clone https://github.com/Sergiojh-design/messageMe.git
 ```
 Install python and django
 ```
-sudo yum install python3-pip -y
+sudo apt install python3-pip -y
 pip3 install django
-sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7
-sudo update-alternatives --config python3
-0
 python3 -m pip install django-cors-headers
 python3 -m pip install djangorestframework
-pip3 install Django==2.1.* --user
-python3 manage.py runserver
+
 ```
 
 ## Running
@@ -60,7 +56,7 @@ To run Django server, cd into root directory
 ```
 python3 manage.py runserver
 ````
-To run React Frontend application, cd into reactapp
+To run React Frontend application (in new terminal), cd into reactapp
 ```
 npm install
 npm run build

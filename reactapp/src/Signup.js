@@ -20,7 +20,8 @@ async function handleSubmit(e) {
     return setError('Passwords do not match')
   }
 
-  axios.post('http://localhost:8000/user/', {email: emailRef.current.value})
+  // 'http://localhost:8000/user/'
+  axios.post('/user/', {email: emailRef.current.value})
     .then((response) => {
       console.log(response);
     })
