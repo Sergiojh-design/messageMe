@@ -48,7 +48,6 @@ Install python and django
 4.) python3 -m pip install djangorestframework
 
 ```
-Note on Ubuntu server under security add a new inbound rule: type: all traffic, source: custom, 0.0.0.0/0. Then connect to public or private URL:3000 to display app.
 
 ## Running
 To run firebase cd into reactapp and create a .env.local file with the following format (ASK OWNER FOR INFO)
@@ -63,6 +62,7 @@ To run React Frontend application (in another terminal), cd into reactapp
 2.) npm run build
 3.) npm start
 ```
+Note on Ubuntu server under security add a new inbound rule: type: all traffic, source: custom, 0.0.0.0/0. Then connect to public or private URL:3000 to display app.
 
 #### Sign up
 ![MessageMe for signup](https://media.giphy.com/media/1zuZFCk02ZKB8wSpT7/giphy.gif?cid=790b7611e82da4979c5cd29eb11fa5c8f908ee6599062997&rid=giphy.gif&ct=g)
